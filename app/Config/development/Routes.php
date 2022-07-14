@@ -1,0 +1,6 @@
+<?php
+
+$routes->resource('blog');
+
+
+?>
