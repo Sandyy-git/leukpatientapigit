@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandyy-git/leukpatientapigit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sandyy-git/leukpatientapigit/issues"
+  },
+  "homepage": "https://github.com/Sandyy-git/leukpatientapigit#readme"
 }
